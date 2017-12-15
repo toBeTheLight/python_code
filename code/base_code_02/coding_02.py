@@ -65,6 +65,6 @@ print('-------------------------')
 
 LAST_NUM = 72
 NOW_NUM = 85
-K = (NOW_NUM - LAST_NUM)/LAST_NUM
+K = (NOW_NUM - LAST_NUM)/LAST_NUM * 100
 print('去年成绩:%d，今年成绩:%d，提高了%.1f%%' % (LAST_NUM, NOW_NUM, K))
 print('去年成绩:{0}，今年成绩:{1}，提高了{2:.1f}%'.format(LAST_NUM, NOW_NUM, K))
