@@ -1,4 +1,4 @@
-# -*- coding: <encoding name> -*-
+# -*- coding: utf-8 -*-
 # coding:utf-8
 # 上方两种注释方式，第一种适用性更广
 '''
